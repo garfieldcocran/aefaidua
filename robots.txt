@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eohohthonu.moyersphd.com/sitemap.xml
